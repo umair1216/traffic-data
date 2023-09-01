@@ -53,4 +53,4 @@ for(segment in names(segment_data)) {
 }
 average_mse <- mean(unlist(mse_list))
 print(paste("Average MSE:", average_mse))
-[1] "Average MSE: 0.0557792112070032"
+
